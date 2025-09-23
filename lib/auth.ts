@@ -113,4 +113,3 @@ export async function authMiddleware(request: NextRequest) {
 
   return NextResponse.next()
 }
-

@@ -263,4 +263,3 @@ export default function TransactionDetailsPage({ params }: { params: { id: strin
     </div>
   )
 }
-

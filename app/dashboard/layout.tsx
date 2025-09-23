@@ -41,4 +41,3 @@ export default function DashboardLayout({
   // Afficher le contenu si l'utilisateur est connecté
   return <>{children}</>
 }
-

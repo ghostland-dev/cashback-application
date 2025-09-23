@@ -15,4 +15,3 @@ export async function GET() {
     return NextResponse.json({ error: "Erreur de serveur interne" }, { status: 500 })
   }
 }
-

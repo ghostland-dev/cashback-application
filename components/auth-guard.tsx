@@ -48,4 +48,3 @@ export default function AuthGuard({ children, requiredRole, redirectTo = "/login
 
   return <>{children}</>
 }
-
