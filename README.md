@@ -1,30 +1,38 @@
-# Cashback application
+# Cashback App
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Cashback platform for users and merchants.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sumamoymoy-gmailcoms-projects/v0-cashback-application)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/OKWUGbjqzQh)
+## Features
 
-## Overview
+- Offers, transactions and referrals
+- Merchant interface and admin
+- Authentication API
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Tech Stack
 
-## Deployment
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui (Radix UI)
 
-Your project is live at:
+## Getting Started
 
-**[https://vercel.com/sumamoymoy-gmailcoms-projects/v0-cashback-application](https://vercel.com/sumamoymoy-gmailcoms-projects/v0-cashback-application)**
+```bash
+git clone https://github.com/ghostland-dev/cashback-application.git
+cd cashback-application
+npm install
+npm run dev
+```
 
-## Build your app
+Other scripts:
 
-Continue building your app on:
+- `npm run build`: next build
+- `npm run lint`: next lint
 
-**[https://v0.app/chat/projects/OKWUGbjqzQh](https://v0.app/chat/projects/OKWUGbjqzQh)**
+## Author
 
-## How It Works
+**Ismail.M**, Software Engineer & DevOps
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
